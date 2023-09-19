@@ -1,25 +1,12 @@
-<<<<<<< HEAD
-test case {
+test case1 {
 
 }
-
-=======
-test case1{
-
-}
->>>>>>> trainMMT
 test case2{
 
 }
-
-<<<<<<< HEAD
 test case3{
-=======
-testcase3{
 
 }
-
-test case4{
->>>>>>> trainMMT
+testcase4{
 
 }
