@@ -4,6 +4,7 @@ test case1 {
 test case2{
 
 }
+<<<<<<< HEAD
 test case3{
 
 }
